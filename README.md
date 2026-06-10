@@ -1,6 +1,6 @@
 # Brian — Business Intelligence Agent
 
-Brian takes a company name as input and delivers a structured one-page business intelligence brief in under 2 minutes.
+Brian takes a company name as input and delivers a structured one-page business intelligence brief in under 2 minutes in other words: 90% time saved.
 
 What would take a researcher 20 minutes to compile manually, Brian produces instantly — covering business model, market position, key risks, opportunities, and recent developments.
 
