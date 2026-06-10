@@ -46,6 +46,8 @@ Using the above, write a clean, structured one-page brief in this format:
 
 Executive Summary: A 3-4 sentence overview of the company and its most important characteristic.
 
+When analyzing Key Risks, use Porter's Five Forces and PESTLE as frameworks to structure your thinking, but do not mention these frameworks by name in the output.
+
 Then the following sections:
 1. Company Overview
 2. Business Model
@@ -55,7 +57,7 @@ Then the following sections:
 6. News and Developments
 7. Sources: List 2-3 sources or data points that would support this analysis (e.g. company reports, news articles, industry data).
 
-End the brief with a short caveat of when the information is from (to account for the cut-off date for training models.
+End the brief with a short caveat noting that information may not reflect events after April 2026, as this analysis is based on training data with a knowledge cutoff of April 2026.
 """
 
         #Output Writer
